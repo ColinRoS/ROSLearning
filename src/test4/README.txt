@@ -1,0 +1,4 @@
+此文件详细分析 
+从目录下通过opencv库读取一张图片，再通过cv_bridge把数据转换为ROS消息，最后发布到Topic上
+
+注意：若要看发布到Topic上的数据，可以用image_view小工具从Topic上订阅数据
